@@ -26,7 +26,7 @@
 
 - Материалы по курсу из видео: https://github.com/Entering-IT/Docker-Online-Course
 
-Далее конспект на основе на основе четырех видео...
+Далее конспект на основе этих четырех видео.
 
 ## [↑](#Docker) Установка
 
@@ -37,15 +37,15 @@
 - Быстро, через скрипт (2 команды): https://github.com/docker/docker-install  
 
 
-    curl -fsSL https://get.docker.com -o get-docker.sh
-    sh get-docker.sh
+      curl -fsSL https://get.docker.com -o get-docker.sh
+      sh get-docker.sh
 
 - Вручную:  https://docs.docker.com/engine/install/ubuntu/
 
 - Проверка установки (запуск тестового контейнера)  
 
 
-    sudo docker run hello-world
+      sudo docker run hello-world
 
 ### docker-compose (неотъемлемая утилита для докера)
 
